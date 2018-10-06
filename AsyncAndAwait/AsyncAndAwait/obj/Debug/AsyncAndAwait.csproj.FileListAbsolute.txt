@@ -1,0 +1,7 @@
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csprojAssemblyReference.cache
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+D:\C#.NET\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
